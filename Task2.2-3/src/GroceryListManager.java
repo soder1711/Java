@@ -16,6 +16,6 @@ public class GroceryListManager {
         list.addItem("Apples", 1.5, "Fruit");
         list.addItem("Milk", 2.5, "Dairy");
         list.addItem("Bread", 5, "IdkTBH");
-        list.displayByCategory("Fruit");
+        list.displayByCategory("Dairy");
     }
 }
